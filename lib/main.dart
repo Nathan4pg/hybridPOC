@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_echarts/flutter_echarts.dart';
 
 void main() {
   runApp(
